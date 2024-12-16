@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+}
+img:nth-child(3){
+    width: 300px;
+}
+img:nth-child(4){
+    width: 300px;
+    height: 393px;
+    top: 150px;
+    position: relative;
+    left: 170px;
+}
+img:nth-child(5){
+    width: 300px;
+    top: 150px;
+    position: relative;
+    left: 295px;
+}
+img:nth-child(6){
+    width: 300px;
+    top: 150px;
+    position: relative;
+    left: 400px;
+    
+}
+img:nth-child(1){
+    width: 120px;
+}
+img:nth-child(7)
+{ 
+    width: 300px;
+    height: 393px;
+    position: relative;
+    top: 640px;
+    left: 96px;
+}
+img:nth-child(8){
+    width: 300px;
+    position: relative;
+    top: 240px;
+    left: 170px;
+}
+img:nth-child(9){
+    width: 300px;
+    position: relative;
+    top: 240px;
+    left: 295px;
+}
+header{
+    background-color: darkred;
+}
+
+ul{
+    display: flex;
+    justify-content: end;
+    position: relative;
+    bottom: 130px;
+     }
+     h1{
+        color: white;
+        font-size: 70px;
+        position: relative;
+        left: 560px;
+        top: 100px;
+
+     }
+     div{
+        color: black;
+        position: relative;
+        top: 540px;
+        left: 100px;
+        border: solid black;
+     }
+audio{
+    position: relative;
+    bottom: 255px;
+    width: 50px;
+    right: 195px;
+  
+}
+li{
+    list-style: none;
+}
+footer{
+    background-color: darkred;
+    position: relative;
+    top: 450px;
+    color: white;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    margin: 2em;
+    transition: color 200ms ease-in;
+}
+
+a:hover{
+    color: black;
+    
+}
+.jojo{
+    position: relative;
+    left: 190px;
+}
+.aizen{
+    position: relative;
+    left: 540px;
+}
+.ywach{
+    position: relative;
+    top: 230px;
+    right:  355px;
+}
+.jotaro{
+    position: relative;
+    top: 230px;
+    left: 25px;
+}
+.dio{
+    position: relative;
+    top: 235px;
+    left: 380px;
+}

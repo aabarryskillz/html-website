@@ -1,0 +1,112 @@
+body{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: url(/img/Scherm­afbeelding\ 2024-12-11\ om\ 20.53.50.png);
+}
+
+ul{
+display: flex;
+justify-content: end;
+position: relative;
+bottom: 50px;
+ }
+
+
+h2{
+    color: darkred;
+    position: relative;
+    top: 214px;
+    left: 337px;
+  font-size: 55px;
+}
+div{
+    position: relative;
+    bottom: 30px;
+}
+
+p{
+    color: white;
+    position: relative;
+    top: 210px; ;
+    left: 370px;
+    font-size: 20px;
+    text-align: center;
+    display: table; height: 100px; width: 50%;
+    
+ }
+ 
+header{
+    background-color: darkred;
+
+    
+}
+
+footer{
+    background-color: darkred;
+    height: 40px;
+    position: relative;
+    top: 700px;
+    color: white;
+ }
+
+ *{ margin: 0;
+padding: 0
+;}
+div{
+    position: relative;
+    list-style: none;
+    top:385px ;
+    left: 690px;
+   
+    border: 2px solid red;
+    background-color: purple;
+    width: 9em;
+    border-radius: 100px;
+    text-align: center;
+    
+    
+    
+    
+    
+    
+}
+img{
+    max-width: 120px;
+}
+li{
+    list-style: none;
+    
+    
+}
+
+
+a{
+    color: white;
+    text-decoration: none;
+    margin: 2em;
+    transition: color 200ms ease-in;
+}
+
+a:hover{
+    color: black;
+    
+}
+.aizen{
+    color: white;
+    position: relative;
+    bottom: 700px;
+}
+
+.aizen{
+    color: white;
+    width: 600px;
+    position: relative;
+    top: 20px;
+}
+
+    
+    
+    
+
+
